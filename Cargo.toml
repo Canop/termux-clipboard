@@ -1,0 +1,13 @@
+[package]
+name = "termux-clipboard"
+version = "0.1.0"
+authors = ["dystroy <denys.seguret@gmail.com>"]
+repository = "https://github.com/Canop/termux-clipboard"
+description = "Access to Android clipboard using Termux API"
+edition = "2018"
+keywords = ["terminal", "clipboard", "termux", "android"]
+license = "MIT"
+categories = ["command-line-interface", "text-processing"]
+readme = "README.md"
+
+[dependencies]
